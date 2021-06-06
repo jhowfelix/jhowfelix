@@ -1,4 +1,5 @@
-# Olá ✌
+
+# Sobre mim ✌
 <P> Eu me chamo Jonathan Felix, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Administração Paulista (FIAP). Em 2020 realizei um curso técnico no qual tive meu primeiro contato com a programação e, desde então, sigo estudando mais sobre tudo que a envolve, em específico java orientado a objeto 💻. Estou buscando uma oportunidade de estágio para ingressar no mercado! 
   
   
