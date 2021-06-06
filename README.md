@@ -10,8 +10,9 @@
   ![JavaScript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  
  # Git Status
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhowfelix&theme=dark&show_icons=true)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhowfelix&show_icons=true&theme=radical)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowfelix&layout=compact)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowfelix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
