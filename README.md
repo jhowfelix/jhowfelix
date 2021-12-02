@@ -9,7 +9,7 @@
   ![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   !<img src="https://img.icons8.com/ios-glyphs/30/000000/api-settings.png"/>
-  https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465
+  !https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465
  
  # Git Status
 
