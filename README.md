@@ -1,6 +1,7 @@
 
 # Sobre mim ✌
-<P> Eu me chamo Jonathan Felix, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Administração Paulista (FIAP). Em 2020 realizei um curso técnico no qual tive meu primeiro contato com a programação e, desde então, sigo estudando mais sobre tudo que a envolve, em específico java orientado a objeto 💻. Estou buscando uma oportunidade de estágio para ingressar no mercado! 
+<P>Apaixonado por tecnologia! Desenvolvedor JAVA, conhecimento Spring Boot, Hibernate/Jpa, Web Services, arquitetura de Microsserviços, Docker, Versionamento de código com git-hub.
+Banco de dados: Oracle, MySql. 
 
 # Tecnologias que estou aprendendo
   ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
